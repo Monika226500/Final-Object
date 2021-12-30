@@ -3,6 +3,9 @@ package com.zhumeng.mall.consumer;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author mine
+ */
 @SpringBootApplication
 public class ConsumerApplication {
 
